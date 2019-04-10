@@ -1,0 +1,23 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: red;
+  font-family: verdana;
+  font-size: 300%;
+}
+p {
+  color: blue;
+  font-family: courier;
+  font-size: 160%;
+}
+img {
+  float: left;
+}
+#rounded {
+  border-radius: 15px 50px 30px;
+  background: red;
+  padding: 50px;
+  width: 50px;
+  height: 50px;
+}
